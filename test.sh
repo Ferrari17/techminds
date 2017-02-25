@@ -8,3 +8,4 @@ The goal of DevOps is to change and improve the relationship by advocating bette
 
 echo `Welcome to Techminds`
 echo `date`
+echo `uname -a`
