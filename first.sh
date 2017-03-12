@@ -2,7 +2,7 @@
  echo 'test'
 
 print_hello(){
-    `date` 
+    date 
     echo "Jenkins Testing"
 }
 print_hello
