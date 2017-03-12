@@ -1,4 +1,2 @@
-#!/bin/bash
-_test_func(){ 
+#!/bin/bash 
  echo 'test'
-}
